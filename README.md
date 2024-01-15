@@ -4,7 +4,7 @@ Nim: 312210168
 
 # Penjelasan
 ### 1. buka xampp
-![](foto/1.png)
+
 
 ### 2. buat database
 ![](foto/2.png)
